@@ -13,17 +13,16 @@ let q1 = document.getElementById('text');
   // ......................................................................................................
 
 // Question4
-    let A =document.getElementById('h2');
+  let A =document.getElementById('h2');
   function tg(){
     console.log(A.innerText);
-     A.innerText="hello word";
+     A.innerText="Hello word";
    }
 // .................................................................................................................
   
 // Question 5
-let t=document.getElementById('text');
- function ta(){
-    
+let t =document.getElementById('tt');
+ function c(){ 
  t.innerText= "Welcome to E21 session";
  console.log(t.innerText);
   }
