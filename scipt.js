@@ -13,10 +13,10 @@ let q1 = document.getElementById('text');
   // ......................................................................................................
 
 // Question4
-   let A=document.getElementsByTagName('h2');
-  function tag (){
-    console.log(A[0].innerText);
-     A[0].innerText="hello word";
+    let A =document.getElementById('h2');
+  function tg(){
+    console.log(A.innerText);
+     A.innerText="hello word";
    }
 // .................................................................................................................
   
